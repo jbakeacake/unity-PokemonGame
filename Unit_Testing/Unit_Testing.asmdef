@@ -1,0 +1,9 @@
+﻿{
+	"name": "Unit_Testing",
+	"references":[
+		"BattleScripts"
+	],
+	"optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}
